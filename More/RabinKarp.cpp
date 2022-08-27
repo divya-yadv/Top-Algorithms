@@ -37,7 +37,7 @@
               // if all equal then its a match
                 if(j == m)
                 {
-                    return i;
+                    cout<<i<<" ";
                 }
             }
           // compute hash for next one
